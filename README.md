@@ -1,5 +1,3 @@
-# supermarket-sales-dashboard
-Power BI dashboard project using supermarket sales data
 # 🛒 Supermarket Sales Dashboard
 
 An interactive Power BI dashboard analyzing supermarket sales from 3 branches across multiple cities.
